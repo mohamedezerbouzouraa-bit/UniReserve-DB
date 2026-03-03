@@ -1,0 +1,5 @@
+INSERT INTO salle VALUES ('B','020',15);
+INSERT INTO salle VALUES ('B','022',15);
+INSERT INTO salle VALUES ('A','301',45);
+INSERT INTO salle VALUES ('C','Amphi 8',500);
+INSERT INTO salle VALUES ('C','Amphi 4',200);
