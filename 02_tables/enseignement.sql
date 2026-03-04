@@ -5,5 +5,4 @@ CREATE TABLE enseignement (
     description VARCHAR(1000),
     CONSTRAINT fk_enseignement_departement
         FOREIGN KEY (departement_id)
-        REFERENCES departement(departement_id)
-);
+        REFERENCES departement(departement_id));
