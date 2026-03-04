@@ -20,5 +20,4 @@ CREATE TABLE reservation (
         REFERENCES departement(departement_id),
     CONSTRAINT fk_reservation_enseignant
         FOREIGN KEY (enseignant_id)
-        REFERENCES enseignant(enseignant_id)
-);
+        REFERENCES enseignant(enseignant_id));
