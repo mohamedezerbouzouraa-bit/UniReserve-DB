@@ -1,3 +1,4 @@
+
 CREATE TABLE salle (
     batiment VARCHAR(1),
     numero_salle VARCHAR(10),
