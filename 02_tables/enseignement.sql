@@ -1,5 +1,4 @@
-CREATE TABLE enseignement (
-    enseignement_id INTEGER PRIMARY KEY,
+CREATE TABLE enseignement (enseignement_id INTEGER PRIMARY KEY,
     departement_id INTEGER,
     intitule VARCHAR(60),
     description VARCHAR(1000),
