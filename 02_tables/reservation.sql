@@ -1,4 +1,5 @@
 CREATE TABLE reservation (
+    
     reservation_id INTEGER PRIMARY KEY,
     batiment VARCHAR(1),
     numero_salle VARCHAR(10),
