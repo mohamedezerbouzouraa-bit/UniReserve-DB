@@ -1,0 +1,4 @@
+INSERT INTO reservation VALUES (1,'B','022',1,1,1,'2008-10-15','08:30:00','11:45:00',3);
+INSERT INTO reservation VALUES (2,'B','022',1,1,2,'2008-11-04','08:30:00','11:45:00',3);
+INSERT INTO reservation VALUES (3,'B','022',1,1,2,'2008-11-07','08:30:00','11:45:00',3);
+INSERT INTO reservation VALUES (4,'B','020',1,1,1,'2008-10-15','08:30:00','11:45:00',3);
